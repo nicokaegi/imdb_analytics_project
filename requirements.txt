@@ -1,0 +1,7 @@
+neo4j
+pandas
+cinemagoer
+networkx
+jupyterlab
+ipython
+ipysigma
