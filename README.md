@@ -5,11 +5,12 @@ to the imdb social media anlytics project.
 If all you want is to see a fully running version of the project you can just go to thse google colab notebooks, and you can skip the rest of the this. As the current database is in a google cloud instance that should be up till the end of june. So have fun.
 
 (for the role graphs alreayd computed you)
-https://colab.research.google.com/drive/1csfqn1xTlyIWZ-GMCaJWRi2QkFpmNwov?usp=sharing
+[https://colab.research.google.com/drive/1csfqn1xTlyIWZ-GMCaJWRi2QkFpmNwov?usp=sharing
+](https://colab.research.google.com/drive/1BHW-KMkFT6icX2n19DW9rPat3dGUJUCd?usp=sharing)
 
 (for the ego graphs already computed for you)
-https://colab.research.google.com/drive/1BHW-KMkFT6icX2n19DW9rPat3dGUJUCd?usp=sharing
-
+[https://colab.research.google.com/drive/1BHW-KMkFT6icX2n19DW9rPat3dGUJUCd?usp=sharing
+](https://colab.research.google.com/drive/1BHW-KMkFT6icX2n19DW9rPat3dGUJUCd?usp=sharing)
 The break down of the important parts is rather simple
 
 First run this to get data from imdb : cinemagoer_get_people.ipynb 
