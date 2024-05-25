@@ -9,8 +9,9 @@ If all you want is to see a fully running version of the project you can just go
 ](https://colab.research.google.com/drive/1BHW-KMkFT6icX2n19DW9rPat3dGUJUCd?usp=sharing)
 
 (for the ego graphs already computed for you)
-[https://colab.research.google.com/drive/1BHW-KMkFT6icX2n19DW9rPat3dGUJUCd?usp=sharing
-](https://colab.research.google.com/drive/1BHW-KMkFT6icX2n19DW9rPat3dGUJUCd?usp=sharing)
+[https://colab.research.google.com/drive/1csfqn1xTlyIWZ-GMCaJWRi2QkFpmNwov?authuser=1#scrollTo=xmGnVihkcIPC
+](https://colab.research.google.com/drive/1csfqn1xTlyIWZ-GMCaJWRi2QkFpmNwov?authuser=1#scrollTo=xmGnVihkcIPC)
+
 The break down of the important parts is rather simple
 
 First run this to get data from imdb : cinemagoer_get_people.ipynb 
